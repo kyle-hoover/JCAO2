@@ -1,6 +1,7 @@
 # JCAO2
 
 Create a Java Calculator Class that does the following five commands:
+
 *An add method that takes in two integer numbers and adds them together the call to that method would look like this: add(int num1, int num2)
 
 *A subtraction method that takes in two integers and subtracts them from one another would look like this: subtract( int num1, int num2)
@@ -12,6 +13,7 @@ Create a Java Calculator Class that does the following five commands:
 *A square method that takes in one integer and squares it: square(int num1, int num2)
 
 Create a MagicCalculator that inherits its basic functionality from your calculator and does the following functions:
+
 *Finds the square root of a number
 
 *Finds the sin (trigonometry) of a number. [Note: Feel free to use the MATH class]
